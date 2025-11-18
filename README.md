@@ -41,34 +41,8 @@ This project detects these patterns.
 	•	Multiple-line queries supported
 	•	Complex queries detected accurately
 	•	Frontend and backend communication verified
- Types of Attacks Detected
-->Attack Type:
-Example Pattern
-Meaning
-Tautology Attack
-OR 1=1
-Bypass login
-Union Attack
-UNION SELECT
-Steal data
-Information Schema
-INFORMATION_SCHEMA
-Read database structure
-Drop/Delete
-DROP TABLE
-Destroy data
-Time-based Attack
-WAITFOR DELAY
-Slow server intentionally
-Comment Injection
--- or #
-Ignore conditions
-Multi-Statement
-;
-Run two queries
-Error-Based
-1/0
-Force database errors
+
+	
 
 	SCREENSHOTS
 
