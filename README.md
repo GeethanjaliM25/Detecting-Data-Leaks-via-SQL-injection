@@ -41,7 +41,17 @@ This project detects these patterns.
 	•	Complex queries detected accurately
 	•	Frontend and backend communication verified
 
+	SCREENSHOTS
+	<img width="1294" height="1080" alt="image" src="https://github.com/user-attachments/assets/0c445aaf-2d2d-4a21-85c9-11b72f9d8b8f" />
+	<img width="1284" height="1080" alt="image" src="https://github.com/user-attachments/assets/6309e622-34f1-45a9-94fb-757fc540eb93" />
+
+
+
+
   🏁 13. Conclusion
 
 This project successfully implements a working system that detects SQL injection attempts and prevents possible data leaks.
 It is simple, accurate, and demonstrates backend + frontend integration effectively.
+
+AUTHOR:
+Geethanjali M
