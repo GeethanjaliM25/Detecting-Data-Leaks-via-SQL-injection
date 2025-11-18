@@ -10,6 +10,7 @@ This mini project demonstrates how SQL queries can be analyzed and categorized a
 This is a Local Detection Tool (No cloud deployment needed).
 
 🎯 2. Objectives
+
 	•	Detect SQL Injection attempts in user-given queries
 	•	Prevent chances of data leaks by identifying malicious patterns
 	•	Categorize attacks (UNION, DROP, INFORMATION_SCHEMA, etc.)
@@ -42,11 +43,11 @@ This project detects these patterns.
 	•	Frontend and backend communication verified
 
 	SCREENSHOTS
-	<img width="1294" height="1080" alt="image" src="https://github.com/user-attachments/assets/0c445aaf-2d2d-4a21-85c9-11b72f9d8b8f" />
-	<img width="1284" height="1080" alt="image" src="https://github.com/user-attachments/assets/6309e622-34f1-45a9-94fb-757fc540eb93" />
+
+<img width="1286" height="1080" alt="Screenshot 2025-11-18 200016" src="https://github.com/user-attachments/assets/224ad188-f873-49cd-97c7-da1efd92057e" />
 
 
-
+<img width="1287" height="1080" alt="Screenshot 2025-11-18 195701" src="https://github.com/user-attachments/assets/a0fc7f13-7f9d-478d-8fc0-54c69acfa427" />
 
   🏁 13. Conclusion
 
