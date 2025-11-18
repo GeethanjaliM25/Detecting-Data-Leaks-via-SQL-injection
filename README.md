@@ -58,15 +58,15 @@ This project detects these patterns.
 
 👉7. Types of Attacks Detected
 
-OR 1=1
-Bypass login
-Union Attack
-UNION SELECT
-Steal data
-Information Schema
-INFORMATION_SCHEMA
-Drop/Delete
-DROP TABLE
+OR 1=1,
+Bypass login,
+Union Attack,
+UNION SELECT,
+Steal data,
+Information Schema,
+INFORMATION_SCHEMA,
+Drop/Delete,
+DROP TABLE,
 Destroy data
 
 	
