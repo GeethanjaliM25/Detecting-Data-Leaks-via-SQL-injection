@@ -1,6 +1,6 @@
 🔐 Project Title
 
-Detecting Data Leaks via SQL Injection
+Detecting Data Leaks via SQL Injection..
 
 📌 1. Introduction
 
